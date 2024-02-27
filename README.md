@@ -9,7 +9,7 @@
 <br><br>
 
 
-- 🔭 I’m currently studying ** B.Tech CSE **
+- 🔭 I’m currently studying **B.Tech CSE**
 
 - 🌱 I’m currently learning **Frontend and Backend Development**
 
