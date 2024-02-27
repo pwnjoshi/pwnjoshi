@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="1000" src="[https://blogger.googleusercontent.com/img/a/AVvXsEiK23PPwtEB2j-q3KaiiYdZucdbpiOH94cZWItoGQuqFriepXEPuJpP-d5exTMoMzu0VRMDbZkaqmZLlzWc1nTWiECZ69zSzJ8bJizWRWIz3Lq25DKbFucAejxhGIXBBKEF_gPIvQ7UWnawIkHoA0yYY8FU7NZJrjn-F0HO1_RXZh0rvQjqciNeTnTR56yk=w616-h286](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy6Fn9r5WmWlpk73pBTgzOBbpLorfc6my0OK0CCJakGqWubfLQcUS9_91uWgmdbOZMyMliTpeOfh7cKv9IVABX7ktgYZahEq50P_dQziZV8_EXRfUP-DrooKtE0gjZ6u6i-hK_J8Rea-cCek1RqIOp7MwmJIXS6zRTzWfBWVbwhf090op0UX0s1htYNdY-/s300/4144-playlist-pfpsgg%20(1).gif)">
+<img align="center" alt="coding" width="1000" src="https://img.hotimg.com/4144-playlist-pfpsgg-1.gif">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C0F700&center=true&vCenter=true&random=false&width=435&lines=B.Tech+CSE+Student;Co+-+Founder+%3A+BrainStorm+NP;Web+Developer;Graphic+Designer)](https://git.io/typing-svg)
 
