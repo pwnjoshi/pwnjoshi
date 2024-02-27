@@ -6,7 +6,7 @@
 <br>
 <br>
 
-<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
+<img align="right" alt="coding" width="330" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 
 - 🔭 I’m currently studying ** B.Tech CSE **
@@ -19,9 +19,8 @@
 
 - 💬 Ask me about **Web Development, Android development or WordPress**
 
-- 📫 How to reach me [Mail Pawan]**me@pawan.info.np**
+- 📫 How to reach me **me@pawan.info.np**
 
-- 📄 Know about my experiences [here](pawan.info.np)
 <br>
 <br> 
 
