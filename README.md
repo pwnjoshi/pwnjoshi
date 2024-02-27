@@ -1,5 +1,6 @@
 <img align="center" alt="coding" width="1000" src="https://blogger.googleusercontent.com/img/a/AVvXsEiK23PPwtEB2j-q3KaiiYdZucdbpiOH94cZWItoGQuqFriepXEPuJpP-d5exTMoMzu0VRMDbZkaqmZLlzWc1nTWiECZ69zSzJ8bJizWRWIz3Lq25DKbFucAejxhGIXBBKEF_gPIvQ7UWnawIkHoA0yYY8FU7NZJrjn-F0HO1_RXZh0rvQjqciNeTnTR56yk=w616-h286">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C0F700&center=true&vCenter=true&random=false&width=435&lines=B.Tech+CSE+Student;Co+-+Founder+%3A+BrainStorm+NP;Web+Developer;Graphic+Designer)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Pawan Joshi</h1>
 <h3 align="center">Tech Enthusiast & B.Tech CSE Student</h3>
