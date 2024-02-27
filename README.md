@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://camo.githubusercontent.com/0c732027af8a28d138e3698181f7be7c9b97d443b4beb9c7ce8ec4cffc6b4767/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="GitHub Image" width="200" height="200"> <h1 align="center">Hi, I am Pawan Joshi</h1> </p>
+<p align="center"> <h1 align="center">Hi, I am Pawan Joshi</h1> <img src="https://camo.githubusercontent.com/0c732027af8a28d138e3698181f7be7c9b97d443b4beb9c7ce8ec4cffc6b4767/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="GitHub Image" width="200" height="200"> </p>
 
 
  <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=C0F700&center=true&vCenter=true&random=false&width=435&lines=B.Tech+CSE+Student;Co+-+Founder+%3A+BrainStorm+NP;Web+Developer;Graphic+Designer" alt="Typing SVG"> </a> </p>
