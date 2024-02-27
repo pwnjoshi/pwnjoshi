@@ -6,7 +6,7 @@
 <br>
 <br>
 
-<img align="right" alt="coding" width="330" src="https://media.tenor.com/jQNca-eFbb0AAAAi/peach-goma-pc-headset.gif">
+<img align="right" alt="coding" width="330" src="https://media.tenor.com/sveyP9rGWd8AAAAi/text-work.gif">
 
 
 - 🔭 I’m currently studying ** B.Tech CSE **
