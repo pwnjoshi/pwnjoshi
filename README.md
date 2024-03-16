@@ -1,6 +1,6 @@
 <p align="center"> <h1 align="center">Hi, I am Pawan Joshi</h1> </p>
 
- <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=C0F700&center=true&vCenter=true&random=false&width=435&lines=B.Tech+CSE+Student;Co+-+Founder+%3A+BrainStorm+NP;Web+Developer;Graphic+Designer" alt="Typing SVG"> </a> </p>
+ <p align="center"> <a href="https://brainstormnp.com"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=C0F700&center=true&vCenter=true&random=false&width=435&lines=B.Tech+CSE+Student;Co+-+Founder+%3A+BrainStorm+NP;Web+Developer;Graphic+Designer" alt="Typing SVG"> </a> </p>
 
 <p align="center"> <a href="https://twitter.com/pwnjoshidev"><img src="https://img.shields.io/twitter/follow/pwnjoshidev?style=social" alt="Twitter Follow"></a> <a href="https://www.linkedin.com/in/pwnjoshi"><img src="https://img.shields.io/badge/LinkedIn-pwnjoshi-blue.svg" alt="LinkedIn"></a> <a href="https://www.instagram.com/pwnjoshidev"><img src="https://img.shields.io/badge/Instagram-pwnjoshidev-red.svg" alt="Instagram"></a> </p> 
 
