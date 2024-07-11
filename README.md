@@ -9,17 +9,15 @@
 <br><br>
 
 
-- 🔭 I’m currently studying **B.Tech CSE**
+- 🔭 I’m currently studying **B.Tech CSE at Graphic Era**
 
-- 🌱 I’m currently learning **Frontend and Backend Development**
+- 🌱 I’m currently learning **JAVA + DSA**
 
-- 👨‍💻 All of my projects are available at [PROJECTS](https://brainstormnp.com/projects)
+- 👨‍💻 All of my projects are available at [PROJECTS](https://joshipawan.com.np/)
 
-- 📝 I regularly write articles on [BLOGS](https://brainstormnp.com/latest-news/)
+- 📝 I regularly write articles on [BLOGS](https://joshipawan.com.np/blog/)
 
-- 💬 Ask me about **Web Development, Android development or WordPress**
-
-- 📫 How to reach me **me@pawan.info.np**
+- 📫 How to reach me **me@joshipawan.com.np**
 
 <br>
 <br> 
