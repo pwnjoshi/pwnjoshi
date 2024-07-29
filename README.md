@@ -2,7 +2,7 @@
   <h1 align="center" style="color: #F75C7E;">Hi, I am Pawan Joshi</h1>
 </p>
 <p align="center">
-  <a href="https://brainstormnp.com" style="color: #F75C7E;"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=C0F700&center=true&vCenter=true&random=false&width=435&lines=B.Tech+CSE+Student;Co+-+Founder+%3A+Tech+Sangi;Web+Developer" alt="Typing SVG">
+  <a href="https://brainstormnp.com" style="color: #F75C7E;"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=435&lines=B.Tech+CSE+Student;Co+-+Founder+%3A+Tech+Sangi;Web+Developer" alt="Typing SVG">
   </a>
 </p>
 
