@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently studying **B.Tech CSE at Graphic Era**
 
-- 🌱 I’m currently learning **JAVA + DSA**
+- 🌱 I’m currently learning **JAVA + DSA, C & Python**
 
 - 👨‍💻 All of my projects are available at [PROJECTS](https://joshipawan.com.np/)
 
