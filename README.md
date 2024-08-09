@@ -2,7 +2,7 @@
   <h1 align="center" style="color: #F75C7E;">Hi, I am Pawan Joshi</h1>
 </p>
 <p align="center">
-  <a href="https://brainstormnp.com" style="color: #F75C7E;"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=435&lines=B.Tech+CSE+Student;Co+-+Founder+%3A+Tech+Sangi;Web+Developer" alt="Typing SVG">
+  <a href="https://joshipawan.com.np.com" style="color: #F75C7E;"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=435&lines=B.Tech+CSE+Student;Co+-+Founder+%3A+Tech+Sangi;Web+Designer" alt="Typing SVG">
   </a>
 </p>
 
@@ -15,11 +15,11 @@
 
 - 🔭 I’m currently studying **B.Tech CSE at Graphic Era**
 
-- 🌱 I’m currently learning **JAVA + DSA, C & Python**
+- 🌱 I’m currently learning **C, Java & Python**
 
 - 👨‍💻 All of my projects are available at [PROJECTS](https://joshipawan.com.np/)
 
-- 📝 I regularly write articles on [BLOGS](https://joshipawan.com.np/blog/)
+- 📝 I regularly write articles on [BLOGS](https://joshipawan.com.np/blog)
 
 - 📫 How to reach me **me@joshipawan.com.np**
 
