@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<p align="center"> <a href="https://twitter.com/pwnjoshidev"><img src="https://img.shields.io/twitter/follow/pwnjoshidev?style=social" alt="Twitter Follow"></a> <a href="https://www.linkedin.com/in/pwnjoshi"><img src="https://img.shields.io/badge/LinkedIn-pwnjoshi-blue.svg" alt="LinkedIn"></a> <a href="https://www.instagram.com/pwnjoshidev"><img src="https://img.shields.io/badge/Instagram-pwnjoshidev-red.svg" alt="Instagram"></a> </p> 
+<p align="center"> <a href="https://twitter.com/pwnjoshidev"><img src="https://img.shields.io/twitter/follow/pwnjoshidev?style=social" alt="Twitter Follow"></a> <a href="https://www.linkedin.com/in/pwnjoshi"><img src="https://img.shields.io/badge/LinkedIn-pwnjoshi-blue.svg" alt="LinkedIn"></a> <a href="https://www.instagram.com/pawancanvas"><img src="https://img.shields.io/badge/Instagram-pawancanvas-red.svg" alt="Instagram"></a> </p> 
 
 
 <img align="right" alt="coding" width="280" src="https://media.tenor.com/sveyP9rGWd8AAAAi/text-work.gif">
