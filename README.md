@@ -89,7 +89,7 @@
 ### 🎨 Spotify Playing
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem" alt="Spotify Playing">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31bmryytbicqhugip3b4kugplzsq&cover_image=true&theme=novatorem" alt="Spotify Playing">
 </p>
 
 ---
