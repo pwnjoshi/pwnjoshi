@@ -93,11 +93,13 @@
 
 ---
 
-<!-- 🎮 GitHub Activity Calendar -->
-<h2 align="center">💻 Coding Activity</h2>
+
+
+<!-- 🎮 GitHub Streak Stats -->
+<h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/pwnjoshi" alt="GitHub Activity Calendar">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pwnjoshi&theme=radical&hide_border=true" alt="GitHub Streak Stats">
 </p>
 
 ---
@@ -112,6 +114,9 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100" alt="Thank You">
+  <br>
+  <b>Thank You for Visiting! 😊</b>
+</p>"Thank You">
   <br>
   <b>Thank You for Visiting! 😊</b>
 </p>
