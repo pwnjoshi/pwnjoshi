@@ -1,12 +1,12 @@
-<!-- HEADER: Dynamic Typing + Gradient Animated Title -->
+<!-- HEADER: Dynamic Typing + Gradient Title -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=45&duration=3000&pause=1000&color=FF79C6&center=true&vCenter=true&width=800&lines=Hi👋,+I'm+Pawan+Joshi;Full-Stack+Developer;Open-Source+Enthusiast;Tech+Artist" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=40&duration=3000&pause=1000&color=00D1FF&center=true&vCenter=true&width=800&lines=Hi👋,+I'm+Pawan+Joshi;Full-Stack+Developer;Tech+Innovator;Open-Source+Advocate" alt="Typing Animation">
 </p>
 
 <!-- PROFILE VIEWS + SOCIALS -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pwnjoshi&label=PROFILE+VIEWS&color=FF79C6&style=for-the-badge"> 
-  <a href="https://wakatime.com/@pwnjoshi"><img src="https://wakatime.com/badge/user/your-wakatime-id.svg?style=for-the-badge&color=FF79C6" alt="Wakatime"></a>
+  <img src="https://komarev.com/ghpvc/?username=pwnjoshi&label=PROFILE+VIEWS&color=00D1FF&style=for-the-badge"> 
+  <a href="https://wakatime.com/@pwnjoshi"><img src="https://wakatime.com/badge/user/your-wakatime-id.svg?style=for-the-badge&color=00D1FF" alt="Wakatime"></a>
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 <!-- ABOUT SECTION: Flex Layout -->
 <div align="center">
-  <img align="right" src="https://raw.githubusercontent.com/pwnjoshi/pwnjoshi/main/assets/neo-matrix.gif" width="400">
+  <img align="right" src="https://raw.githubusercontent.com/pwnjoshi/pwnjoshi/main/assets/coding-animation.gif" width="400">
   
   ### 🚀 **About Me**
   - 🔭 Currently building **AI-powered dev tools**
@@ -39,18 +39,20 @@
 
 ---
 
-<!-- STATS: 3D Contributions + Advanced Metrics -->
-<h2 align="center">📊 Deep Development Analytics</h2>
+<!-- STATS: Advanced Metrics -->
+<h2 align="center">📊 Development Analytics</h2>
 
 <div align="center">
   
-  ![Metrics](https://metrics.lecoq.io/pwnjoshi?template=terminal&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FKathmandu)
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=pwnjoshi&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="GitHub Stats">
+  
+  <!-- Wakatime Stats -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pwnjoshi&layout=compact&theme=dark&custom_title=Weekly+Development+Breakdown">
   
   <!-- 3D Contribution Map -->
   <img src="https://raw.githubusercontent.com/pwnjoshi/pwnjoshi/output/3d-contrib/profile-night-rainbow.svg" width="100%">
   
-  <!-- Code Time Widget -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pwnjoshi&layout=compact&theme=radical&custom_title=Weekly+Development+Breakdown">
 </div>
 
 ---
@@ -60,7 +62,7 @@
 
 <div align="center">
   
-  | [![CodeCanvas AI](https://github-readme-stats.vercel.app/api/pin/?username=pwnjoshi&repo=CodeCanvas-AI&theme=radical)](https://github.com/pwnjoshi/CodeCanvas-AI) | [![Neo Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=pwnjoshi&repo=Neo-Portfolio&theme=radical)](https://github.com/pwnjoshi/Neo-Portfolio) |
+  | [![CodeCanvas AI](https://github-readme-stats.vercel.app/api/pin/?username=pwnjoshi&repo=CodeCanvas-AI&theme=dark)](https://github.com/pwnjoshi/CodeCanvas-AI) | [![Neo Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=pwnjoshi&repo=Neo-Portfolio&theme=dark)](https://github.com/pwnjoshi/Neo-Portfolio) |
   |---|---|
   | **AI-Powered Code Generator** | **3D Interactive Portfolio** |
   
@@ -72,8 +74,8 @@
 <h2 align="center">📚 Latest Articles</h2>
 
 <!-- DEV.TO ARTICLES -->
-<a target="_blank" href="https://github-readme-devto-stats.vercel.app/api?username=pwnjoshi&layout=compact&theme=radical">
-  <img src="https://github-readme-devto-stats.vercel.app/api?username=pwnjoshi&layout=compact&theme=radical" alt="Dev.to Articles">
+<a target="_blank" href="https://github-readme-devto-stats.vercel.app/api?username=pwnjoshi&layout=compact&theme=dark">
+  <img src="https://github-readme-devto-stats.vercel.app/api?username=pwnjoshi&layout=compact&theme=dark" alt="Dev.to Articles">
 </a>
 
 ---
@@ -96,28 +98,6 @@
     <a href="#"><img src="https://img.shields.io/badge/Metaverse-00B4FF?style=for-the-badge&logo=metaverse&logoColor=white" alt="Metaverse"></a>
   </p>
   
-  <!-- Dynamic Ecosystem Chart -->
-  <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['Frontend','Backend','AI','Web3','Metaverse'],datasets:[{label:'Skill Level',data:[90,85,80,75,70],backgroundColor:'rgba(255,121,198,0.2)',borderColor:'#FF79C6',borderWidth:2}]},options:{scale:{ticks:{beginAtZero:true,max:100}}}}" width="60%">
-  
-</div>
-
----
-
-<!-- GAMIFIED SECTION: Advanced Skill Metrics -->
-<h2 align="center">🎮 Developer Journey RPG</h2>
-
-<div align="center">
-  
-  <!-- Skill Progress Bars -->
-  <img src="https://progress-bar.dev/90/?title=Frontend&width=600&color=FF79C6" alt="Frontend">
-  <img src="https://progress-bar.dev/85/?title=Backend&width=600&color=61DAFB" alt="Backend">
-  <img src="https://progress-bar.dev/80/?title=AI&width=600&color=FF6F61" alt="AI">
-  <img src="https://progress-bar.dev/75/?title=Web3&width=600&color=F16822" alt="Web3">
-  <img src="https://progress-bar.dev/70/?title=Metaverse&width=600&color=00B4FF" alt="Metaverse">
-  
-  <!-- Skill Matrix -->
-  <img src="https://quickchart.io/chart?c={type:'bar',data:{labels:['Frontend','Backend','AI','Web3','Metaverse'],datasets:[{label:'Skill Level',data:[90,85,80,75,70],backgroundColor:['#FF79C6','#61DAFB','#FF6F61','#F16822','#00B4FF']}]},options:{scales:{y:{beginAtZero:true,max:100}}}}" width="80%">
-  
 </div>
 
 ---
@@ -129,7 +109,7 @@
   <h2 align="center">🚀 Let's Build the Future Together!</h2>
   <p align="center">
     <a href="mailto:me@joshipawan.com.np">
-      <img src="https://img.shields.io/badge/SEND_ME_A_RAINBOW-EMAIL-FF79C6?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email Me">
+      <img src="https://img.shields.io/badge/SEND_ME_A_RAINBOW-EMAIL-00D1FF?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email Me">
     </a>
   </p>
 </p>
