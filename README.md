@@ -11,7 +11,7 @@
 
 ---
 
-<img align="right" alt="coding" width="300" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img align="right" alt="coding" width="250" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 ### 🌟 About Me
 
@@ -44,7 +44,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pwnjoshi&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pwnjoshi&theme=radical" alt="GitHub Streak">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pwnjoshi&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
@@ -94,10 +93,10 @@
 
 ---
 
-### 🎮 Snake Game Contribution
+### 🎮 Interactive Coding Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pwnjoshi/pwnjoshi/output/github-contribution-grid-snake.svg" alt="Snake Game">
+  <img src="https://raw.githubusercontent.com/pwnjoshi/pwnjoshi/main/assets/coding-animation.gif" alt="Coding Animation">
 </p>
 
 ---
