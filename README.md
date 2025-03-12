@@ -92,12 +92,13 @@
 </p>
 
 ---
-<!-- 🎮 Coding Activity Visualization -->
+
+
+<!-- 🎮 GitHub Contribution Snake -->
 <h2 align="center">💻 Coding Activity</h2>
 
 <p align="center">
-  <!-- Wakatime Weekly Coding Activity -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pwnjoshi&layout=compact&theme=radical&custom_title=Weekly+Coding+Activity" alt="Wakatime Stats">
+  <img src="https://raw.githubusercontent.com/pwnjoshi/pwnjoshi/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 </p>
 
 ---
