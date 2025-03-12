@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi%2C+I+am+Pawan+Joshi;Web+Developer;Tech+Enthusiast;Open-Source+Contributor" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=35&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi%2C+I+am+Pawan+Joshi;Web+Developer;Tech+Enthusiast;Open-Source+Contributor" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ---
 
-<img align="right" alt="coding" width="300" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img align="right" alt="coding" width="350" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 ### 🌟 About Me
 
@@ -43,12 +43,13 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pwnjoshi&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pwnjoshi&theme=radical" alt="GitHub Streak">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pwnjoshi&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ---
 
-### � Projects
+### 🚀 Projects
 
 <p align="center">
   <a href="https://joshipawan.com.np">
@@ -64,6 +65,14 @@
   <a href="https://joshipawan.com.np/blog">
     <img src="https://img.shields.io/badge/Read%20My%20Blogs-%23F75C7E?style=for-the-badge&logo=medium&logoColor=white" alt="Blogs">
   </a>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pwnjoshi&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies">
 </p>
 
 ---
