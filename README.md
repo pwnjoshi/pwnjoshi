@@ -93,12 +93,11 @@
 
 ---
 
-
-<!-- 🎮 GitHub Contribution Snake -->
+<!-- 🎮 GitHub Activity Calendar -->
 <h2 align="center">💻 Coding Activity</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pwnjoshi/pwnjoshi/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+  <img src="https://ghchart.rshah.org/pwnjoshi" alt="GitHub Activity Calendar">
 </p>
 
 ---
