@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=35&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi%2C+I+am+Pawan+Joshi;Web+Developer;Tech+Enthusiast;Open-Source+Contributor" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=40&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi%2C+I+am+Pawan+Joshi;Web+Developer;Tech+Enthusiast;Open-Source+Contributor" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
 </p>
 
 ---
@@ -73,6 +74,22 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pwnjoshi&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies">
+</p>
+
+---
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pwnjoshi&theme=react-dark&hide_border=true&area=true" alt="Activity Graph">
+</p>
+
+---
+
+### 🎨 Spotify Playing
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem" alt="Spotify Playing">
 </p>
 
 ---
