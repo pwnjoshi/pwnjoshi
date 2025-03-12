@@ -11,7 +11,7 @@
 
 ---
 
-<img align="right" alt="coding" width="350" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img align="right" alt="coding" width="300" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 ### 🌟 About Me
 
@@ -86,10 +86,18 @@
 
 ---
 
-### 🎨 Spotify Playing
+### 🎨 Random Dev Quote
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31bmryytbicqhugip3b4kugplzsq&cover_image=true&theme=novatorem" alt="Spotify Playing">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
+</p>
+
+---
+
+### 🎮 Snake Game Contribution
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pwnjoshi/pwnjoshi/output/github-contribution-grid-snake.svg" alt="Snake Game">
 </p>
 
 ---
