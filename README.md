@@ -1,19 +1,19 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I+am+Pawan+Joshi;Web+Developer;Tech+Enthusiast;Open-Source+Contributor" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi%2C+I+am+Pawan+Joshi;Web+Developer;Tech+Enthusiast;Open-Source+Contributor" alt="Typing SVG">
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/pwnjoshidev"><img src="https://img.shields.io/twitter/follow/pwnjoshidev?style=social" alt="Twitter Follow"></a> 
-  <a href="https://www.linkedin.com/in/pwnjoshi"><img src="https://img.shields.io/badge/LinkedIn-pwnjoshi-blue.svg" alt="LinkedIn"></a> 
-  <a href="https://www.instagram.com/pawancanvas"><img src="https://img.shields.io/badge/Instagram-pawancanvas-red.svg" alt="Instagram"></a> 
-  <a href="https://joshipawan.com.np"><img src="https://img.shields.io/badge/Portfolio-joshipawan.com.np-brightgreen" alt="Portfolio"></a>
+  <a href="https://twitter.com/pwnjoshidev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a> 
+  <a href="https://www.linkedin.com/in/pwnjoshi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
+  <a href="https://www.instagram.com/pawancanvas"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a> 
+  <a href="https://joshipawan.com.np"><img src="https://img.shields.io/badge/Portfolio-%23F75C7E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 </p>
 
 ---
 
-<img align="right" alt="coding" width="300" src="https://media.tenor.com/sveyP9rGWd8AAAAi/text-work.gif">
+<img align="right" alt="coding" width="300" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-### 👨‍💻 About Me
+### 🌟 About Me
 
 - 🎓 **B.Tech CSE Student** at **Graphic Era University**
 - 🌱 Currently learning **C, Java, Python, and Web Development**
@@ -23,7 +23,7 @@
 
 ---
 
-### 🛠️ Skills
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -34,6 +34,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 </p>
 
 ---
@@ -41,16 +42,18 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pwnjoshi&show_icons=true&theme=dracula" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pwnjoshi&layout=compact&theme=dracula" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=pwnjoshi&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pwnjoshi&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ---
 
-### 📂 Projects
+### � Projects
 
 <p align="center">
-  <a href="https://joshipawan.com.np">👉 Explore My Projects</a>
+  <a href="https://joshipawan.com.np">
+    <img src="https://img.shields.io/badge/Explore%20My%20Projects-%23F75C7E?style=for-the-badge&logo=vercel&logoColor=white" alt="Projects">
+  </a>
 </p>
 
 ---
@@ -58,7 +61,9 @@
 ### 📝 Latest Blog Posts
 
 <p align="center">
-  <a href="https://joshipawan.com.np/blog">📚 Read My Blogs</a>
+  <a href="https://joshipawan.com.np/blog">
+    <img src="https://img.shields.io/badge/Read%20My%20Blogs-%23F75C7E?style=for-the-badge&logo=medium&logoColor=white" alt="Blogs">
+  </a>
 </p>
 
 ---
@@ -66,7 +71,7 @@
 ### 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pwnjoshi&label=Profile%20views&color=0e75b6&style=flat" alt="pwnjoshi" />
+  <img src="https://komarev.com/ghpvc/?username=pwnjoshi&label=Profile%20views&color=F75C7E&style=flat" alt="pwnjoshi" />
 </p>
 
 ---
