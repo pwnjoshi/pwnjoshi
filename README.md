@@ -11,7 +11,7 @@
 
 ---
 
-<img align="right" alt="coding" width="350" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img align="right" alt="coding" width="220" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 ### 🌟 About Me
 
@@ -92,11 +92,12 @@
 </p>
 
 ---
-
-### 🎮 Coding Animation
+<!-- 🎮 Coding Activity Visualization -->
+<h2 align="center">💻 Coding Activity</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pwnjoshi/pwnjoshi/main/assets/coding-animation.gif" alt="Coding Animation">
+  <!-- Wakatime Weekly Coding Activity -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pwnjoshi&layout=compact&theme=radical&custom_title=Weekly+Coding+Activity" alt="Wakatime Stats">
 </p>
 
 ---
