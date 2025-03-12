@@ -1,116 +1,126 @@
+<!-- HEADER: Dynamic Typing + Gradient Animated Title -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=40&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi%2C+I+am+Pawan+Joshi;Web+Developer;Tech+Enthusiast;Open-Source+Contributor" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=45&duration=3000&pause=1000&color=FF79C6&center=true&vCenter=true&width=800&lines=Hi👋,+I'm+Pawan+Joshi;Full-Stack+Developer;Open-Source+Enthusiast;Tech+Artist" alt="Typing Animation">
+</p>
+
+<!-- PROFILE VIEWS + SOCIALS -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pwnjoshi&label=PROFILE+VIEWS&color=FF79C6&style=for-the-badge"> 
+  <a href="https://wakatime.com/@pwnjoshi"><img src="https://wakatime.com/badge/user/your-wakatime-id.svg?style=for-the-badge&color=FF79C6" alt="Wakatime"></a>
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/pwnjoshidev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a> 
-  <a href="https://www.linkedin.com/in/pwnjoshi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
-  <a href="https://www.instagram.com/pawancanvas"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a> 
-  <a href="https://joshipawan.com.np"><img src="https://img.shields.io/badge/Portfolio-%23F75C7E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-</p>
-
----
-
-<img align="right" alt="coding" width="350" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
-
-### 🌟 About Me
-
-- 🎓 **B.Tech CSE Student** at **Graphic Era University**
-- 🌱 Currently learning **C, Java, Python, and Web Development**
-- 💻 Passionate about **Web Design, Open Source, and Tech Innovations**
-- 📝 I write tech blogs on [joshipawan.com.np/blog](https://joshipawan.com.np/blog)
-- 📫 Reach me at **me@joshipawan.com.np**
-
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <a href="https://twitter.com/pwnjoshidev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"></a> 
+  <a href="https://www.linkedin.com/in/pwnjoshi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://dev.to/pwnjoshi"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white"></a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+<!-- ABOUT SECTION: Flex Layout -->
+<div align="center">
+  <img align="right" src="https://raw.githubusercontent.com/pwnjoshi/pwnjoshi/main/assets/neo-matrix.gif" width="400">
+  
+  ### 🚀 **About Me**
+  - 🔭 Currently building **AI-powered dev tools**
+  - 🌐 Creator of [Tech Sangi](https://techsangi.com)
+  - 🎨 Designed 50+ websites & 100+ UI components
+  - 📚 Writing a book: _"The Art of Code Aesthetics"_
+  - ⚡ Fun fact: **I code in RGB lighting sync!**
+</div>
 
+---
+
+<!-- TECH STACK: Animated Grid -->
+<h2 align="center">⚡ Tech Stack</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pwnjoshi&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pwnjoshi&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,py,tailwind,figma,git,aws,graphql,postgres,redis,flutter&theme=dark&perline=6">
 </p>
 
 ---
 
-### 🚀 Projects
+<!-- STATS: 3D Contributions + Advanced Metrics -->
+<h2 align="center">📊 Deep Development Analytics</h2>
 
-<p align="center">
-  <a href="https://joshipawan.com.np">
-    <img src="https://img.shields.io/badge/Explore%20My%20Projects-%23F75C7E?style=for-the-badge&logo=vercel&logoColor=white" alt="Projects">
-  </a>
-</p>
-
----
-
-### 📝 Latest Blog Posts
-
-<p align="center">
-  <a href="https://joshipawan.com.np/blog">
-    <img src="https://img.shields.io/badge/Read%20My%20Blogs-%23F75C7E?style=for-the-badge&logo=medium&logoColor=white" alt="Blogs">
-  </a>
-</p>
+<div align="center">
+  
+  ![Metrics](https://metrics.lecoq.io/pwnjoshi?template=terminal&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FKathmandu)
+  
+  <!-- 3D Contribution Map -->
+  <img src="https://raw.githubusercontent.com/pwnjoshi/pwnjoshi/output/3d-contrib/profile-night-rainbow.svg" width="100%">
+  
+  <!-- Code Time Widget -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=pwnjoshi&layout=compact&theme=radical&custom_title=Weekly+Development+Breakdown">
+</div>
 
 ---
 
-### 🏆 GitHub Trophies
+<!-- PROJECTS: Interactive Cards -->
+<h2 align="center">🚀 Featured Projects</h2>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pwnjoshi&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies">
-</p>
-
----
-
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pwnjoshi&theme=react-dark&hide_border=true&area=true" alt="Activity Graph">
-</p>
+<div align="center">
+  
+  | [![CodeCanvas AI](https://github-readme-stats.vercel.app/api/pin/?username=pwnjoshi&repo=CodeCanvas-AI&theme=radical)](https://github.com/pwnjoshi/CodeCanvas-AI) | [![Neo Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=pwnjoshi&repo=Neo-Portfolio&theme=radical)](https://github.com/pwnjoshi/Neo-Portfolio) |
+  |---|---|
+  | **AI-Powered Code Generator** | **3D Interactive Portfolio** |
+  
+</div>
 
 ---
 
-### 🎨 Random Dev Quote
+<!-- BLOG: Latest Posts -->
+<h2 align="center">📚 Latest Articles</h2>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Random Dev Quote">
-</p>
-
----
-
-### 🎮 Coding Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pwnjoshi/pwnjoshi/main/assets/coding-animation.gif" alt="Coding Animation">
-</p>
+<!-- DEV.TO ARTICLES -->
+<a target="_blank" href="https://github-readme-devto-stats.vercel.app/api?username=pwnjoshi&layout=compact&theme=radical">
+  <img src="https://github-readme-devto-stats.vercel.app/api?username=pwnjoshi&layout=compact&theme=radical" alt="Dev.to Articles">
+</a>
 
 ---
 
-### 👀 Profile Views
+<!-- GITHVERSE: Interactive Ecosystem -->
+<h2 align="center">🌌 My Developer Ecosystem</h2>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pwnjoshi&label=Profile%20views&color=F75C7E&style=flat" alt="pwnjoshi" />
-</p>
+```mermaid
+graph TD
+    A[VS Code] --> B((React))
+    A --> C((Node.js))
+    B --> D{Microservices}
+    C --> D
+    D --> E[AI Integration]
+    E --> F[Web3]
+    F --> G[Metaverse]
+    style A fill:#FF79C6,stroke:#333,stroke-width:2px
+    style B fill:#61DAFB,stroke:#333,stroke-width:2px
+    style C fill:#68A063,stroke:#333,stroke-width:2px
+    style D fill:#FFD700,stroke:#333,stroke-width:2px
+    style E fill:#FF6347,stroke:#333,stroke-width:2px
+    style F fill:#9370DB,stroke:#333,stroke-width:2px
+    style G fill:#00CED1,stroke:#333,stroke-width:2px
+
+<!-- GAMIFIED SECTION -->
+<h2 align="center">🎮 Developer Journey RPG</h2>
+
+<div align="center">
+  
+  ![Level 42 Developer](https://progress-bar.dev/84/?scale=100&title=CODING+LEVEL&width=600&color=ff79c6)
+  
+  | **Strength** | **Intelligence** | **Charisma** | **Luck** |
+  |--------------|-------------------|--------------|----------|
+  | ![Strength](https://progress-bar.dev/90/?color=ff79c6) | ![Intelligence](https://progress-bar.dev/95/?color=ff79c6) | ![Charisma](https://progress-bar.dev/75/?color=ff79c6) | ![Luck](https://progress-bar.dev/100/?color=ff79c6) |
+  
+</div>
 
 ---
 
+<!-- FOOTER: Animated Goodbye -->
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100" alt="Thank You">
+  <img src="https://raw.githubusercontent.com/pwnjoshi/pwnjoshi/main/assets/digital-rain.gif" width="100%">
   <br>
-  <b>Thank You for Visiting! 😊</b>
+  <h2 align="center">🚀 Let's Build the Future Together!</h2>
+  <p align="center">
+    <a href="mailto:me@joshipawan.com.np">
+      <img src="https://img.shields.io/badge/SEND_ME_A_RAINBOW-EMAIL-FF79C6?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email Me">
+    </a>
+  </p>
 </p>
