@@ -11,7 +11,7 @@
 
 ---
 
-<img align="right" alt="coding" width="250" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img align="right" alt="coding" width="350" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 ### 🌟 About Me
 
@@ -88,12 +88,12 @@
 ### 🎨 Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Random Dev Quote">
 </p>
 
 ---
 
-### 🎮 Interactive Coding Animation
+### 🎮 Coding Animation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/pwnjoshi/pwnjoshi/main/assets/coding-animation.gif" alt="Coding Animation">
