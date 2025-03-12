@@ -81,33 +81,42 @@
 <!-- GITHVERSE: Interactive Ecosystem -->
 <h2 align="center">🌌 My Developer Ecosystem</h2>
 
-```mermaid
-graph TD
-    A[VS Code] --> B((React))
-    A --> C((Node.js))
-    B --> D{Microservices}
-    C --> D
-    D --> E[AI Integration]
-    E --> F[Web3]
-    F --> G[Metaverse]
-    style A fill:#FF79C6,stroke:#333,stroke-width:2px
-    style B fill:#61DAFB,stroke:#333,stroke-width:2px
-    style C fill:#68A063,stroke:#333,stroke-width:2px
-    style D fill:#FFD700,stroke:#333,stroke-width:2px
-    style E fill:#FF6347,stroke:#333,stroke-width:2px
-    style F fill:#9370DB,stroke:#333,stroke-width:2px
-    style G fill:#00CED1,stroke:#333,stroke-width:2px
+<div align="center">
+  
+  <!-- Interactive Ecosystem Visualization -->
+  <img src="https://raw.githubusercontent.com/pwnjoshi/pwnjoshi/main/assets/ecosystem-graph.svg" width="100%">
+  
+  <!-- Tech Stack Badges with Hover Effects -->
+  <p align="center">
+    <a href="#"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"></a>
+    <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"></a>
+    <a href="#"><img src="https://img.shields.io/badge/AI-FF6F61?style=for-the-badge&logo=openai&logoColor=white" alt="AI"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Metaverse-00B4FF?style=for-the-badge&logo=metaverse&logoColor=white" alt="Metaverse"></a>
+  </p>
+  
+  <!-- Dynamic Ecosystem Chart -->
+  <img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['Frontend','Backend','AI','Web3','Metaverse'],datasets:[{label:'Skill Level',data:[90,85,80,75,70],backgroundColor:'rgba(255,121,198,0.2)',borderColor:'#FF79C6',borderWidth:2}]},options:{scale:{ticks:{beginAtZero:true,max:100}}}}" width="60%">
+  
+</div>
 
-<!-- GAMIFIED SECTION -->
+---
+
+<!-- GAMIFIED SECTION: Advanced Skill Metrics -->
 <h2 align="center">🎮 Developer Journey RPG</h2>
 
 <div align="center">
   
-  ![Level 42 Developer](https://progress-bar.dev/84/?scale=100&title=CODING+LEVEL&width=600&color=ff79c6)
+  <!-- Skill Progress Bars -->
+  <img src="https://progress-bar.dev/90/?title=Frontend&width=600&color=FF79C6" alt="Frontend">
+  <img src="https://progress-bar.dev/85/?title=Backend&width=600&color=61DAFB" alt="Backend">
+  <img src="https://progress-bar.dev/80/?title=AI&width=600&color=FF6F61" alt="AI">
+  <img src="https://progress-bar.dev/75/?title=Web3&width=600&color=F16822" alt="Web3">
+  <img src="https://progress-bar.dev/70/?title=Metaverse&width=600&color=00B4FF" alt="Metaverse">
   
-  | **Strength** | **Intelligence** | **Charisma** | **Luck** |
-  |--------------|-------------------|--------------|----------|
-  | ![Strength](https://progress-bar.dev/90/?color=ff79c6) | ![Intelligence](https://progress-bar.dev/95/?color=ff79c6) | ![Charisma](https://progress-bar.dev/75/?color=ff79c6) | ![Luck](https://progress-bar.dev/100/?color=ff79c6) |
+  <!-- Skill Matrix -->
+  <img src="https://quickchart.io/chart?c={type:'bar',data:{labels:['Frontend','Backend','AI','Web3','Metaverse'],datasets:[{label:'Skill Level',data:[90,85,80,75,70],backgroundColor:['#FF79C6','#61DAFB','#FF6F61','#F16822','#00B4FF']}]},options:{scales:{y:{beginAtZero:true,max:100}}}}" width="80%">
   
 </div>
 
