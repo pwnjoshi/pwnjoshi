@@ -116,7 +116,32 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100" alt="Thank You">
   <br>
   <b>Thank You for Visiting! 😊</b>
-</p>"Thank You">
+</p>
+
+
+<!-- 🎮 Skill Progress Bars -->
+<h2 align="center">💻 Coding Activity</h2>
+
+<p align="center">
+  <img src="https://progress-bar.dev/75/?title=Frontend&width=600&color=F75C7E" alt="Frontend">
+  <img src="https://progress-bar.dev/85/?title=Backend&width=600&color=61DAFB" alt="Backend">
+  <img src="https://progress-bar.dev/65/?title=AI&width=600&color=FF6F61" alt="AI">
+  <img src="https://progress-bar.dev/55/?title=Web3&width=600&color=F16822" alt="Web3">
+  <img src="https://progress-bar.dev/45/?title=Metaverse&width=600&color=00B4FF" alt="Metaverse">
+</p>
+
+---
+
+### 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pwnjoshi&label=Profile%20views&color=F75C7E&style=flat" alt="pwnjoshi" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100" alt="Thank You">
   <br>
   <b>Thank You for Visiting! 😊</b>
 </p>
