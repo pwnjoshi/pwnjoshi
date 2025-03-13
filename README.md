@@ -94,16 +94,6 @@
 ---
 
 
-
-<!-- 🎮 GitHub Streak Stats -->
-<h2 align="center">🔥 GitHub Streak</h2>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pwnjoshi&theme=radical&hide_border=true" alt="GitHub Streak Stats">
-</p>
-
----
-
 ### 👀 Profile Views
 
 <p align="center">
