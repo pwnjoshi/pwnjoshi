@@ -5,8 +5,7 @@
 <p align="center">
   <a href="https://twitter.com/pwnjoshidev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a> 
   <a href="https://www.linkedin.com/in/pwnjoshi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
-  <a href="https://www.instagram.com/pawancanvas"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a> 
-  <a href="https://joshipawan.com.np"><img src="https://img.shields.io/badge/Portfolio-%23F75C7E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://iampawan.me"><img src="https://img.shields.io/badge/Portfolio-%23F75C7E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 </p>
 
 ---
