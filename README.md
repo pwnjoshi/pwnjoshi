@@ -15,7 +15,7 @@
 ### 🌟 About Me
 
 - 🎓 **B.Tech CSE Student** at **Graphic Era University**
-- 🌱 Currently learning **C, Java, Python, and Web Development**
+- 🌱 Currently learning **C, C++, Python,JS , and Web Development**
 - 💻 Passionate about **Web Design, Open Source, and Tech Innovations**
 - 📝 I write tech blogs on [joshipawan.com.np/blog](https://joshipawan.com.np/blog)
 - 📫 Reach me at **me@joshipawan.com.np**
