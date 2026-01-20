@@ -14,10 +14,11 @@
 
 ### 🌟 About Me
 
-- 🎓 **B.Tech CSE Student** at **Graphic Era University**
+- 🎓 **Computer Science & Engineering Student** at **Graphic Era University**
+- 🧢 **AWS Cloud Club Captain** - **Graphic Era University**
 - 🌱 Currently learning **C, C++, Python,JS , and Web Development**
 - 💻 Passionate about **Web Design, Open Source, and Tech Innovations**
-- 📝 I write tech blogs on [joshipawan.com.np/blog](https://joshipawan.com.np/blog)
+- 📝 I write tech blogs on [dev.to/pwnjoshi](https://dev.to/pwnjoshi)
 - 📫 Reach me at **me@joshipawan.com.np**
 
 ---
@@ -71,7 +72,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pwnjoshi&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies">
+  <img src="https://github-trophies.vercel.app/?username=pwnjoshi&theme=radical&no-frame=false&no-bg=false&margin-w=4">
 </p>
 
 ---
