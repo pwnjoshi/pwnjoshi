@@ -62,7 +62,7 @@
 ### 📝 Latest Blog Posts
 
 <p align="center">
-  <a href="https://joshipawan.com.np/blog">
+  <a href="https://dev.to/pwnjoshi">
     <img src="https://img.shields.io/badge/Read%20My%20Blogs-%23F75C7E?style=for-the-badge&logo=medium&logoColor=white" alt="Blogs">
   </a>
 </p>
