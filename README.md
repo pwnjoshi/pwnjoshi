@@ -1,109 +1,230 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=40&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi%2C+I+am+Pawan+Joshi;Web+Developer;Tech+Enthusiast;Open-Source+Contributor" alt="Typing SVG">
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://twitter.com/pwnjoshidev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a> 
-  <a href="https://www.linkedin.com/in/pwnjoshi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
-  <a href="https://iampawan.me"><img src="https://img.shields.io/badge/Portfolio-%23F75C7E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-</p>
+<!-- Dynamic Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pawan%20Joshi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Cloud%20Architect&descAlignY=55&descSize=16" width="100%"/>
 
----
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Autonomous+AI+Agents+%F0%9F%A4%96;AWS+Cloud+Club+Captain+%E2%98%81%EF%B8%8F;Full-Stack+%26+AI+Developer+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%8C%9F;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG"/>
 
-<img align="right" alt="coding" width="220" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<br/>
 
-### 🌟 About Me
+<!-- Social Badges -->
+<a href="https://linkedin.com/in/pwnjoshi">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://twitter.com/pwnjoshidev">
+  <img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+<a href="https://iampawan.me">
+  <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://dev.to/pwnjoshi">
+  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
+</a>
+<a href="mailto:joshipawan2021@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 
-- 🎓 **Computer Science & Engineering Student** at **Graphic Era University**
-- 🧢 **AWS Cloud Club Captain** - **Graphic Era University**
-- 🌱 Currently learning **C, C++, Python,JS , and Web Development**
-- 💻 Passionate about **Web Design, Open Source, and Tech Innovations**
-- 📝 I write tech blogs on [dev.to/pwnjoshi](https://dev.to/pwnjoshi)
-- 📫 Reach me at **me@joshipawan.com.np**
+<br/><br/>
 
----
+<!-- Profile views + followers -->
+<img src="https://komarev.com/ghpvc/?username=pwnjoshi&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile Views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/pwnjoshi?label=Followers&style=flat-square&color=58A6FF" alt="GitHub Followers"/>
 
-### 🛠️ Tech Stack
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-</p>
+<br/>
 
 ---
 
-### 📊 GitHub Stats
+## 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pwnjoshi&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pwnjoshi&layout=compact&theme=radical" alt="Top Languages">
-</p>
+```yaml
+name       : Pawan Joshi
+location   : Dehradun, India 🇮🇳
+education  : B.Tech CSE @ Graphic Era University (CGPA: 8.87/10)
+current    :
+  - AI Intern @ Infosys Springboard — Autonomous Cognitive Systems
+  - Co-Founder @ Tech Sangi Pvt. Ltd.
+  - AWS Cloud Club Captain (Founding Chapter)
+  - Google Student Ambassador (Gemini & GenAI)
+interests  : [Agentic AI, Cloud Architecture, Full-Stack Dev, Open Source]
+blog       : dev.to/pwnjoshi
+contact    : joshipawan2021@gmail.com
+```
 
----
-
-### 🚀 Projects
-
-<p align="center">
-  <a href="https://joshipawan.com.np">
-    <img src="https://img.shields.io/badge/Explore%20My%20Projects-%23F75C7E?style=for-the-badge&logo=vercel&logoColor=white" alt="Projects">
-  </a>
-</p>
-
----
-
-### 📝 Latest Blog Posts
-
-<p align="center">
-  <a href="https://dev.to/pwnjoshi">
-    <img src="https://img.shields.io/badge/Read%20My%20Blogs-%23F75C7E?style=for-the-badge&logo=medium&logoColor=white" alt="Blogs">
-  </a>
-</p>
+<br/>
 
 ---
 
-### 🏆 GitHub Trophies
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=pwnjoshi&theme=radical&no-frame=false&no-bg=false&margin-w=4">
-</p>
+<div align="center">
 
----
+**Languages**
 
-### 📈 Activity Graph
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js&theme=dark" />
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pwnjoshi&theme=react-dark&hide_border=true&area=true" alt="Activity Graph">
-</p>
+**Cloud & DevOps**
 
----
+<img src="https://skillicons.dev/icons?i=aws,gcp,git,github,linux&theme=dark" />
 
-### 🎨 Random Dev Quote
+**Frameworks & Tools**
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Random Dev Quote">
-</p>
+<img src="https://skillicons.dev/icons?i=django,firebase,react,nodejs,figma&theme=dark" />
 
----
+**AI / ML**
 
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3A5E?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C8C4E?style=for-the-badge&logo=chainlink&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-7B2FBE?style=for-the-badge&logo=python&logoColor=white)
 
-### 👀 Profile Views
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pwnjoshi&label=Profile%20views&color=F75C7E&style=flat" alt="pwnjoshi" />
-</p>
+<br/>
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100" alt="Thank You">
-  <br>
-  <b>Thank You for Visiting! 😊</b>
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pwnjoshi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github&cache_seconds=21600" height="165" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pwnjoshi&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6&cache_seconds=21600" height="165" alt="Top Languages"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=pwnjoshi&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6E2E&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" width="70%" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/pwnjoshi">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pwnjoshi&repo=autonomous-cognitive-engine&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Autonomous Cognitive Engine"/>
+</a>
+
+</div>
+
+<br/>
+
+### 🤖 Autonomous Cognitive Engine for Deep Research
+> **Stack:** LangGraph · Python · LangSmith · ReAct Loops
+
+- Stateful LangGraph framework with **Virtual File System** to bypass LLM context limits
+- Multi-agent delegation logic achieving **80% task decomposition accuracy**
+- **70% success rate** on multi-step research tasks, verified via LangSmith tracing
+- Engineered supervisor models and ReAct loops for long-horizon autonomous task execution
+
+---
+
+### 🎯 InterviewGen AI — Autonomous Interview Workflow
+> **Stack:** Python · Django · MongoDB · NLP
+
+- End-to-end interview automation platform managing complex **multi-stage candidate states**
+- Custom NLP pipeline for **automated resume parsing** and dynamic question generation
+- Streamlines initial screening from resume intake to technical evaluation, fully automated
+
+---
+
+### 📍 ARTAMS: Advanced Real-Time Attendance System
+> **Stack:** C · AWS EC2 · FastCGI · Nginx · Hash Tables
+
+- High-performance C core engine with **O(1) lookups** via Hash Tables
+- **Haversine formula** for GPS-based geo-validation ensuring 100% attendance integrity
+- Deployed on **AWS EC2 (t3.medium)** with Ubuntu 24.04, Nginx, and FastCGI REST APIs
+
+---
+
+## 💼 Experience Timeline
+
+```
+2026 ──── 🤖 AI Intern @ Infosys Springboard
+           └── Autonomous Cognitive Systems · LangGraph · LangSmith
+
+2025 ──── ☁️  AWS Cloud Club — Founding Captain
+           └── 100+ students · Workshops on EC2, S3, IAM
+
+2025 ──── 🎓 Google Student Ambassador
+           └── GenAI & Gemini awareness · Campus workshops
+
+2025 ──── 🏫 Google Cloud Arcade Mentor
+           └── GCP labs · Skill badge guidance
+
+2024 ──── 🚀 Co-Founder @ Tech Sangi Pvt. Ltd.
+           └── 8+ web products · Nepal / Remote
+```
+
+<br/>
+
+---
+
+## 🏆 Achievements & Certifications
+
+<div align="center">
+
+|  | Certification / Achievement |
+|---|---|
+| ☁️ | **AWS Certified Cloud Practitioner** |
+| 🤖 | **AWS Certified AI Practitioner** |
+| 🧠 | **AWS Educate — Machine Learning Foundations** |
+| ✨ | **Principles of Generative AI** — Infosys Springboard |
+| 🏅 | **AI Primer** — Infosys Springboard |
+| 🥈 | **Graph-E-Thon 2.0 Hackathon Finalist** |
+
+</div>
+
+<br/>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pwnjoshi&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6E2E&area=true&area_color=58A6FF" width="100%" alt="Contribution Graph"/>
+</div>
+
+<br/>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pwnjoshi&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1" width="100%" alt="Trophies"/>
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### 💬 Dev Quote of the Day
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%" alt="Dev Quote"/>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+**Let's build something impactful together.** 🚀
+
+*Open to collaborations, internships, and cool side projects!*
+
+</div>
