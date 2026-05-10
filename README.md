@@ -15,13 +15,13 @@
 <a href="https://twitter.com/pwnjoshidev">
   <img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 </a>
-<a href="https://iampawan.me">
+<a href="https://joshipawan.com.np">
   <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://dev.to/pwnjoshi">
   <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
 </a>
-<a href="mailto:joshipawan2021@gmail.com">
+<a href="mailto:me@joshipawan.com.np">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
@@ -47,11 +47,11 @@ education  : B.Tech CSE @ Graphic Era University (CGPA: 8.87/10)
 current    :
   - AI Intern @ Infosys Springboard — Autonomous Cognitive Systems
   - Co-Founder @ Tech Sangi Pvt. Ltd.
-  - AWS Cloud Club Captain (Founding Chapter)
-  - Google Student Ambassador (Gemini & GenAI)
+  - AWS Student Builder Group Leader (Founding Chapter)
+  - Google Student Ambassador (Gemini)
 interests  : [Agentic AI, Cloud Architecture, Full-Stack Dev, Open Source]
 blog       : dev.to/pwnjoshi
-contact    : joshipawan2021@gmail.com
+contact    : me@joshipawan.com.np
 ```
 
 <br/>
@@ -90,9 +90,11 @@ contact    : joshipawan2021@gmail.com
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pwnjoshi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github&cache_seconds=21600" height="165" alt="GitHub Stats"/>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pwnjoshi&theme=github_dark" height="165"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pwnjoshi&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6&cache_seconds=21600" height="165" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pwnjoshi&theme=github_dark" height="165"/>
+</div>
 </div>
 
 <br/>
@@ -107,13 +109,6 @@ contact    : joshipawan2021@gmail.com
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/pwnjoshi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pwnjoshi&repo=autonomous-cognitive-engine&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Autonomous Cognitive Engine"/>
-</a>
-
-</div>
 
 <br/>
 
@@ -174,12 +169,10 @@ contact    : joshipawan2021@gmail.com
 
 |  | Certification / Achievement |
 |---|---|
-| ☁️ | **AWS Certified Cloud Practitioner** |
-| 🤖 | **AWS Certified AI Practitioner** |
 | 🧠 | **AWS Educate — Machine Learning Foundations** |
 | ✨ | **Principles of Generative AI** — Infosys Springboard |
-| 🏅 | **AI Primer** — Infosys Springboard |
-| 🥈 | **Graph-E-Thon 2.0 Hackathon Finalist** |
+| 🏅 | **AI Primer** — Infosys Springboard Certified |
+| 🥈 | **Graph-E-Thon 2.0 & 3.0 Hackathon Finalist** |
 
 </div>
 
@@ -211,7 +204,7 @@ contact    : joshipawan2021@gmail.com
 
 ### 💬 Dev Quote of the Day
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%" alt="Dev Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="80%"  alt="Dev Quote"/>
 
 </div>
 
