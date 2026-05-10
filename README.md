@@ -204,7 +204,7 @@ contact    : me@joshipawan.com.np
 
 ### 💬 Dev Quote of the Day
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="80%"  alt="Dev Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" width="50%" alt="Dev Quote"/>
 
 </div>
 
