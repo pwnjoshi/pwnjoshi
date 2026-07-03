@@ -43,7 +43,7 @@
 ```yaml
 name       : Pawan Joshi
 location   : Dehradun, India 🇮🇳
-education  : B.Tech CSE @ Graphic Era University (CGPA: 8.87/10)
+education  : B.Tech CSE @ Graphic Era Deemed to be University
 current    :
   - AI Intern @ Infosys Springboard — Autonomous Cognitive Systems
   - Co-Founder @ Tech Sangi Pvt. Ltd.
